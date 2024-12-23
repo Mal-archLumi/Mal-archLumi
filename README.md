@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Mal-archLumi
-- 👀 I’m interested in c programming ,web site creation ,still figuring the rest out
-- 🌱 I’m currently learning c,Web development ,javascript
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- 👀 I’m interested in c programming,java programming, python programming ,back end development,still figuring the rest out
+- 🌱 I’m currently learning python, java and Node Js
+- 💞️ I’m looking to collaborate on any project
+- 📫 Reach me via whatsapp (0706074187) or instagram @techguy_ke
+
 
 <!---
 Mal-archLumi/Mal-archLumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
