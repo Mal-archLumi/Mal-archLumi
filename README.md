@@ -1,11 +1,43 @@
-- 👋 Hi, I’m @Makutu Alvine
-- 👀 I’m interested in c programming,java programming, python programming ,back end development,still figuring the rest out
-- 🌱 I’m currently learning python, java and Node Js
-- 💞️ I’m looking to collaborate on any project
-- 📫 Reach me via whatsapp (0706074187) or instagram @techlife_ke
+# Hi, I'm LUMITI 👋
 
+### Cyber Security & Full-Stack Development Student
 
-<!---
-Mal-archLumi/Mal-archLumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## About Me
+
+I'm a student passionate about Cyber security and full-stack development. I enjoy building projects and learning new technologies.
+
+- 🔭 Currently working on: Web 3 concepts
+- 🌱 Currently learning: Backend development and CompTIA Security+
+- 💬 Ask me about: Full-stack development or data science basics
+- 📩 Contact: makutualvine@gmail.com
+
+---
+
+## Skills & Tools
+💻 Languages: Python | JavaScript | Java | C | HTML | CSS | TypeScript
+🧠 Data Science: pandas | scikit-learn | TensorFlow basics
+🌐 Frontend: React | Next.js | Tailwind
+⚙️ Backend: Node.js | MySQL | MongoDB
+🛠️ Tools: Git | Linux | Docker | Kuberneets
+
+---
+
+## Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Khin--90-black?logo=github)](https://github.com/Mal-archLumi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lumiti-blue?logo=linkedin)](https://www.linkedin.com/in/)
+
+---
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mal-archLumi&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mal-archLumi&layout=compact)
+
+---
+
+## Featured Project
+
+[![Mkulima-Hub](https://github-readme-stats.vercel.app/api/pin/?username=Mal-archLumi&repo=Mkulima-Hub)](https://github.com/Mal-archLumi/Mkulima-Hub)
