@@ -1,6 +1,6 @@
 # Hi, I'm LUMITI 👋
 
-### Cyber Security & Full-Stack Development Student
+### Cyber Security & Full-Stack Development Engineer
 
 ---
 
@@ -26,7 +26,7 @@ I'm a student passionate about Cyber security and full-stack development. I enjo
 
 ## Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Khin--90-black?logo=github)](https://github.com/Mal-archLumi)
+[![GitHub](https://img.shields.io/badge/GitHub-Mal--archLumi-black?logo=github)](https://github.com/Mal-archLumi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lumiti-blue?logo=linkedin)](https://www.linkedin.com/in/)
 
 ---
