@@ -11,7 +11,7 @@ I'm a student passionate about Cyber security and full-stack development. I enjo
 - 🔭 Currently working on: Web 3 concepts
 - 🌱 Currently learning: Backend development and CompTIA Security+
 - 💬 Ask me about: Full-stack development or data science basics
-- 📩 Contact: makutualvine@gmail.com
+- 📩 Contact: makutualvine@gmail.com  || +254706074187
 
 ---
 
